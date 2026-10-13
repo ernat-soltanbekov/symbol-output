@@ -1,0 +1,11 @@
+*.go text eol=lf
+*.md text eol=lf
+*.sh text eol=lf
+go.mod text eol=lf
+standard.txt -text
+shadow.txt -text
+thinkertoy.txt -text
+test00.txt -text
+test01.txt -text
+test02.txt -text
+test03.txt -text

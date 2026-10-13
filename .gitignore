@@ -1,0 +1,6 @@
+/symbol-output
+/banner.txt
+/coverage.out
+*.test
+.DS_Store
+.symbol-output-*
